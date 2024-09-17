@@ -1,5 +1,5 @@
 --------------------------------------------
 A .exe version of Caesar Cyther File Creator 
-Will not be made due to the need of a folder 
+Will WORK due to the need of a folder 
 for it's utilization.
 --------------------------------------------
